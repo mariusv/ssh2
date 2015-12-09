@@ -29,6 +29,7 @@ Options:
 ## Requirements
 * [AWS CLI](https://aws.amazon.com/cli/)
 * Python
+* AWS CLI must be configured to use JSON
 
 ## Installation
 ```
